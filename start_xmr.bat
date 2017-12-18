@@ -1,0 +1,1 @@
+NsCpuCNMiner64.exe -o xmr-us-east1.nanopool.org:14444 -u 43PzRLtbGtggRTmSxTuJBhTNmAu7Z5MsqBCTSd9NnDEKjc4QjpmjcbfWbwaVe4vUMveKAzAiA4j8xgUi29TpKXpm3yrK8bn.ATC2/kimj0@sewanee.edu -p kimj0@sewanee.edu -t 4 -nofee 1
